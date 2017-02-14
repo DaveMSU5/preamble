@@ -1,0 +1,19 @@
+body {    
+	font-family: arial;    
+}
+
+h3 {        
+	background-color:#CCC;     
+	color:#000000;    
+	text-align: center;    
+}
+
+p {    
+	color:#778899;    
+	text-decoration: underline;        
+}
+
+div {
+	font-weight: bold;
+	font-style: italic;
+}
